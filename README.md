@@ -1,3 +1,5 @@
 # Analisis de Calificaciones
 Este recurso pedagógico está diseñado para apoyar al docente en el análisis rápido y fundamentado del desempeño académico de los estudiantes en el curso Análisis de Sistemas de Potencia 1. A partir del uso de herramientas de Inteligencia Artificial, el recurso permite procesar de manera ágil los datos históricos de calificaciones, identificar patrones de rendimiento y resaltar cambios relevantes entre cohortes o periodos académicos.<br><br>
 El propósito principal es facilitar que el docente tome decisiones informadas para ajustar estrategias de enseñanza, detectar dificultades recurrentes y reconocer avances colectivos o individuales sin necesidad de invertir tiempo en procesos manuales de análisis. Este recurso ofrece un punto de partida para interpretar tendencias de aprendizaje, evaluar el impacto de intervenciones didácticas y fortalecer el seguimiento continuo del progreso estudiantil.
+# Nota:
+Para poder ver las gráficas hay que descargarlas porque Github no me las muestra
